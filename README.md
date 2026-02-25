@@ -17,3 +17,5 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```
 
 Is necessary run in a MacOS, because the components is native and don't have support to expo go yet.
+
+Original Github repository: https://github.com/betomoedano/expo-ui-playground
